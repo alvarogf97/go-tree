@@ -1,3 +1,6 @@
+[![Build Status](https://app.travis-ci.com/alvarogf97/go-tree.svg?branch=master)](https://app.travis-ci.com/alvarogf97/go-tree)
+[![Coverage Status](https://coveralls.io/repos/github/alvarogf97/go-tree/badge.svg)](https://coveralls.io/github/alvarogf97/go-tree)
+
 <p align="center">
   <img width="270" height="250" src="https://littleml.files.wordpress.com/2013/04/traditional.png">
 </p>
