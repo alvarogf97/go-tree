@@ -13,7 +13,7 @@ their own programs.
 It's posible to install it by using go:
 
 ```go
-go install github.com/alvarogf97/go-tree
+go install github.com/alvarogf97/go-tree@latest
 ```
 # Usage
 

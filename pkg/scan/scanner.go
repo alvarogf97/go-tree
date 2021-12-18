@@ -40,7 +40,7 @@ func (scanner Scanner) Scan(path string) (*treefs.Folder, error) {
 	// scans root folder searching for
 	// subfolders and containing files
 	filepath.WalkDir(rpath, scanner.walker(root, scanner.options.showHidden))
-	return root, err
+	return root, nil
 }
 
 // Creates a new scanner
