@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="270" height="250" src="https://www.clipartmax.com/png/middle/3-34782_palm-tree-emoji-sticker.png">
+  <img width="270" height="250" src="https://littleml.files.wordpress.com/2013/04/traditional.png">
 </p>
 
 # go-tree in a nutshell
